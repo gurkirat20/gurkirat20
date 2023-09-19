@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=gurkirat20&label=Profile%20views&color=0e75b6&style=flat" alt="gurkirat20" /> </p>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gurkirat+Singh+Sehgal!;" />
@@ -30,13 +30,25 @@
   </a>
 </div>
 
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/gurkirat-singh-20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gurkirat-singh-20/" height="30" width="40" /></a>
+<a href="https://instagram.com/gurkirat_sehgal20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gurkirat_sehgal20" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@gurkirat_30467" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@gurkirat_30467" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/gurkirat20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gurkirat20" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/gurkiratsingh30467" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gurkiratsingh30467" height="30" width="40" /></a>
+</p>
+
+
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=git,github,html,css,javascript,bootstrap,figma,photoshop,illustrator" /><br>
-    <img src="https://skillicons.dev/icons?i=r,mysql,vscode,C++,java,python,tensorflow,pandas,seaborn,matplotlib" />
+    <img src="https://skillicons.dev/icons?i=r,mysql,vscode,java,python" />
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a         href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </div>
 
 <br/>
@@ -55,10 +67,11 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=gurkirat20&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-gurkirat20.vercel.app/api?username=gurkirat20&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-gurkirat20.vercel.app/api/top-langs/?username=gurkirat20&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gurkirat20&show_icons=true&locale=en&layout=compact" alt="gurkirat20" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gurkirat20&show_icons=true&locale=en" alt="gurkirat20" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gurkirat20&" alt="gurkirat20" /></p>
 </div>
 
 <br/><br/>
