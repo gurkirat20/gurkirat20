@@ -58,9 +58,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gurkirat20&show_icons=true&locale=en&layout=compact" alt="gurkirat20" /></p>
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gurkirat20&show_icons=true&locale=en" alt="gurkirat20" /></p>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gurkirat20&" alt="gurkirat20" /></p>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gurkirat20&show_icons=true&locale=en&layout=compact" alt="gurkirat20" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gurkirat20&show_icons=true&locale=en" alt="gurkirat20" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gurkirat20&" alt="gurkirat20" />
 </div>
 
 <br/><br/>
