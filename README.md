@@ -5,7 +5,7 @@
     <p>I'm Gurkirat Singh Sehgal!" </p>
 </h1>
 
-<h3 align="center">I'm a recent CS Graduate from University Of Delhi 🚀</h3>
+<h3 align="center">I am currently an MCA student at NITK. 🚀</h3>
 
 <br/>
 
